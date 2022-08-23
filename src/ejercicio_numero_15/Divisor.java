@@ -31,6 +31,7 @@ class Operacion {
                 }
             }
 
+	//cuando el número es impar y diferente de cero
         } else {
             System.out.print("'ERROR DE NUMERO'\n");
 
