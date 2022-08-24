@@ -23,7 +23,7 @@ class Operacion {
     }
 
     public void calcularDivisores() {
-        if (numero != 0 && numero%2 == 0) {
+        if (numero != 0) {
             for (int i = 1; i <= numero; i++) {
                 if (numero % i == 0) {
                     //imprimes la solucion
